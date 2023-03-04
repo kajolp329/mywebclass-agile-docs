@@ -9,7 +9,7 @@ Goals:
 1.Evaluate current DevOps processes 
 2.Define DevOps goals and metrics
 3.Establish a CI/CD pipeline
-
+ok
 
 Scope: To establish a DevOps process that supports the continuous growth and improvement of the website
  
