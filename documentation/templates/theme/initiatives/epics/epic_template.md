@@ -10,7 +10,7 @@ Goals:
 1.     Define the requirements for the DevOps process.
 2.     Select appropriate tools and technologies required for implementing the DevOps process.
 3.     Define the workflow for integrating code changes into the DevOps process.
-
+ok
 
 User Stories:
 1.     As a web developer, I want a clear and concise documentation of the DevOps process, so that I can easily refer 
