@@ -15,7 +15,7 @@ Acceptance Criteria:
 9.     The website must be well-documented, with clear and concise documentation that describes the codebase, architecture, and functionality of the website.
 10.     The website must meet all project objectives and requirements, as specified in the project scope and contract.
 11.     The website must follow industry standards and best practices for web development, including security, performance, accessibility, and usability.
-
+ok
 "As a [developer], I want to create a website that is functional, responsive, secure, and optimized for performance, so that it provides a seamless and satisfactory user experience, achieves the project objectives, and meets the industry standards and best practices.
 
 By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria: main
